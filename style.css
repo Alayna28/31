@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    font-size: 16px;
+    font-weight: 400;
+    background-color: lavender;
+
+}
+.cover{
+    background-image:url('food.jpg');
+    height: 400px;
+    position:relative;
+    opacity:1;
+    background-position:center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.section{
+    text-align:left;
+    padding:50px 80px;
+    background-color: lightblue;
+    color:lightcoral;
+}
+p{
+    font-size: 20px;
+    text-align:left;
+}
+img{
+    width:350px;
+    height:270px;
+}
